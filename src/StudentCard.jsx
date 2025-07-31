@@ -1,4 +1,4 @@
-
+// https://github.com/Greg01001000/module10a-studentcard-review
 
 // This component shows a student's profile card with their name, major, year, bio, and an image.
 // The user can click a button to show or hide the bio.

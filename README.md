@@ -1,4 +1,4 @@
-
+https://github.com/Greg01001000/module10a-studentcard-review
 #### CS 81, by Greg H, 7/31/25
 # Module 10A – StudentCard Code Review
 
@@ -15,3 +15,4 @@ explain the logic behind props, state, and interactivity.
 
 ## Screenshot
 (Add a screenshot of the running component with your comments visible in the code editor)
+![Screenshot of rendered component](CS81A10AScreenGregH.png)
